@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE ipe SYSTEM "ipe.dtd">
-<ipe version="70218" creator="Ipe 7.2.18">
-<info created="D:20200806232523" modified="D:20200807005306"/>
+<ipe version="70218" creator="Ipe 7.2.20">
+<info created="D:20200806232523" modified="D:20200807135958"/>
 <ipestyle name="basic">
 <symbol name="arrow/arc(spx)">
 <path stroke="sym-stroke" fill="sym-stroke" pen="sym-pen">
@@ -934,7 +934,7 @@ a Dispatcher-aware function</text>
 available?</text>
 <text matrix="1 0 0 1.6 4 -928.723" transformations="translations" pos="208 768" stroke="black" type="minipage" width="108" height="15.099" depth="10.14" valign="top" size="large" style="center">Execute the function\\
 (locally)</text>
-<text matrix="1 0 0 1.6 10 -996.8" transformations="translations" pos="208 768" stroke="black" type="minipage" width="96" height="6.642" depth="1.66" valign="top" size="large" style="center">Return results</text>
+<text matrix="1 0 0 1.6 10 -996.8" transformations="translations" pos="208 768" stroke="black" type="minipage" width="96" height="6.642" depth="1.66" valign="top" size="large" style="center">Return the results</text>
 <text matrix="1.04762 0 0 4.29843 330.095 -3062.22" transformations="translations" pos="208 768" stroke="black" type="minipage" width="120" height="13.61" depth="8.64" valign="top" size="large" style="center">Fetch the results\\
 back to local session</text>
 <text matrix="1 0 0 1.6 344 -868.8" transformations="translations" pos="208 768" stroke="black" type="minipage" width="112" height="7.807" depth="2.82" valign="top" size="large" style="center">Split the data</text>
@@ -1026,7 +1026,7 @@ the function</text>
 256 428 l
 </path>
 <text matrix="1 0 0 1.6 160 -995.638" transformations="translations" pos="208 768" stroke="black" type="minipage" width="112" height="7.807" depth="2.82" valign="top" size="large" style="center">Merge split results</text>
-<path matrix="2.33333 0 0 1 -388 -192" stroke="black" pen="0.5" rarrow="normal/normal">
+<path matrix="1.99999 0 0 1 -279.998 -192" stroke="black" pen="0.5" rarrow="normal/normal">
 300 420 m
 324 420 l
 </path>
